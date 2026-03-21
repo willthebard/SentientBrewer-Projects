@@ -1,0 +1,7 @@
+config.php
+workspace/
+buildlibs/
+*.tar.gz
+*.zip
+/admin/run_build.php
+.claude/
