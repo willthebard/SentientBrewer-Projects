@@ -1,7 +1,9 @@
-config.php
-workspace/
-buildlibs/
-*.tar.gz
-*.zip
-/admin/run_build.php
-.claude/
+# Ignore everything
+*
+
+# Except these
+!.gitignore
+!README.md
+!LICENSE
+!projects/
+!projects/**
